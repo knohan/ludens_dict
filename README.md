@@ -1,0 +1,3 @@
+# ludens_dict
+
+This is an experimental project created for educational purposes...
