@@ -1,3 +1,3 @@
-# ludens_dict
+# Luden's Dict
 
 This is an experimental project created for educational purposes...
