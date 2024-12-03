@@ -1,6 +1,0 @@
-qtam
-qtd
-qto
-qtr
-qts
-qty

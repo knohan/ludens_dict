@@ -1,4 +1,0 @@
-fdnames
-fdtype
-fdub
-fdubs

@@ -1,5 +1,0 @@
-cwm
-cwms
-cwo
-cwrite
-cwt
